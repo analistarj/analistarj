@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @analistarj
+- 👋 Hi, I’m @analistarj, IT Auditor
 - 👀 I’m interested in audit script
-- 🌱 I’m currently learning devops
-- 💞️ I’m looking to collaborate on audit scrippts
+- 🌱 I’m currently learning devops and python
+- 💞️ I’m looking to collaborate on audit scripts
 - 📫 How to reach me 
 
 <!---
