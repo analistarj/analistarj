@@ -49,10 +49,25 @@ Atualmente aprofundando conhecimentos em **Terraform**, **GitHub Actions** e aud
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=analistarj&show_icons=true&theme=dark&count_private=true"/>
-  <img hei
-
- 	<a href="https://www.twitch.tv/analistacarioca" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-   <a href = "mailto:analista.carioca@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alan-nogueira-8341454/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analistarj&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+---
+
+### 🌐 Connect With Me / Conecte-se Comigo
+<p align="center">
+  <a href="https://instagram.com/alancarioca" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://beacons.ai/analistarj" target="_blank">
+    <img src="https://img.shields.io/badge/-Beacons.ai-000000?style=for-the-badge&logo=linktree&logoColor=white"/>
+  </a>
+  <a href="mailto:alan.nogueira@lasa.com.br">
+    <img src="https://img.shields.io/badge/-Email-%230077B5?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+⭐ **"Turning audit findings into automation."**  
+⭐ **"Transformando achados de auditoria em automação."**
