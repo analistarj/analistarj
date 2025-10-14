@@ -22,15 +22,15 @@ Foco em transformar achados de auditoria em **ações automatizadas de mitigaç�
 
 ## 🧰 Core Tools & Technologies / Principais Tecnologias
 
-Python · PowerShell · SQL · Terraform · GitHub Actions · Azure CLI · Cloud Security · DevOps · Automation · Log Analysis · IAM · NIST · ISO 27001 · SOC 2
+Python · PowerShell · SQL · GitHub Actions · ACL Analytics · Azure CLI · Cloud Security · DevOps · Automation · Log Analysis · IAM · NIST · ISO 27001 · SOC 2
 
 ---
 
-## 🚀 Featured Projects / Projetos em Destaque
+### 🚀 Featured Projects / Projetos em Destaque
 
 | Repository | Description / Descrição | Stack |
-|-------------|--------------------------|--------|
-| [script-auditor](https://github.com/Analistarj/script-auditor) | Automated audit scripts to test security and compliance controls / Scripts automatizados de auditoria para testar controles de segurança e conformidade | Python |
+|---|---|---|
+| [script-auditor](https://github.com/Analistarj/script-auditor) | Automated audit scripts to test security and compliance controls / Scripts automatizados para testar controles de segurança e conformidade | Python |
 | [CPF_LGPD](https://github.com/Analistarj/CPF_LGPD) | Data privacy audit (LGPD) with sensitive data detection / Auditoria de privacidade com identificação de dados sensíveis | Python |
 | [Banco_de_Dados_audit](https://github.com/Analistarj/Banco_de_Dados_audit) | SQL audit for access validation and anomaly detection / Auditoria SQL para validação de acessos e detecção de anomalias | SQL, Python |
 
