@@ -9,9 +9,9 @@ I help organizations strengthen their IT environments through automated audit sc
 - 🧩 **IT Auditor & Cybersecurity Professional** with over 20 years in technology governance  
 - 🔍 Experience in **ITGC**, **SOX**, **NIST CSF**, **COBIT**, and **ISO 27001** frameworks  
 - 💡 Specialized in automation of IT audits, log analysis, and vulnerability detection  
-- ☁️ Expertise across **Azure**, **AWS**, and **GCP** environments  
+- ☁️ Expertise across **Azure**, **Linux**, **Windows Server**, **AWS**, and **GCP** environments  
 - ⚙️ Knowledge in **Cloud Security Posture**, **DevOps Security**, and **IAM Controls**  
-- 🧠 Currently improving skills in **Terraform**, **GitHub Actions**, and **threat modeling**  
+- 🧠 Currently improving skills in **Powershell**, **GitHub Actions**, and **threat modeling**  
 - 🤝 Open to collaborate on **security automation and compliance monitoring projects**
 
 🗣️ *Auditor e especialista em segurança da informação*, com ampla experiência em controles de TI, conformidade e automação de auditorias.  
