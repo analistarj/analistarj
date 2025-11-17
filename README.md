@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alan — IT Auditor & Cybersecurity Specialist
+# 👋 Hi, I'm Alan, IT Auditor & Cybersecurity Specialist
 
 **Expert in Technology Audit, Cybersecurity, and Control Automation**  
 I help organizations strengthen their IT environments through automated audit scripts, vulnerability assessments, and secure DevOps practices.
