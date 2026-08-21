@@ -4,11 +4,11 @@
 
 Tenho mais de 25 anos de experiência em tecnologia, com quase 20 anos de atuação em Auditoria de TI, riscos, controles internos e segurança da informação. Transformo requisitos, riscos e evidências em testes reproduzíveis, relatórios explicáveis e monitoramento contínuo.
 
-Atuo na conexão entre auditoria, cybersecurity, governança e engenharia, com foco em ambientes corporativos complexos, privacidade por desenho e decisões apoiadas por evidências.
+Atuo na conexão entre auditoria, cybersecurity, governança e infraestrutura, com foco em ambientes corporativos complexos, privacidade por desenho e decisões apoiadas por evidências.
 
 ## Áreas de atuação
 
-- **Auditoria e controles:** ITGC, SOX, COSO, COBIT 2019 e auditoria contínua.
+- **Auditoria e controles:** ITGC, SOX, COSO, COBIT e auditoria contínua.
 - **Cyber GRC:** NIST CSF 2.0, ISO/IEC 27001 e 27002, riscos tecnológicos e terceiros.
 - **Identidades e cloud:** IAM, AWS, Azure, GCP, segregação de funções e gestão de acessos.
 - **Privacidade e IA:** LGPD, descoberta de dados, governança de IA e validação humana.
