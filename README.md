@@ -14,7 +14,7 @@ Atuo na conexão entre auditoria, cybersecurity, governança e engenharia, com f
 - **Privacidade e IA:** LGPD, descoberta de dados, governança de IA e validação humana.
 - **Automação e analytics:** Python, PowerShell, SQL, GitHub Actions, Power BI e ACL/Diligent.
 
-## Projeto autoral em destaque
+## Projetos autorais em destaque
 
 ### [CPF_LGPD](https://github.com/analistarj/CPF_LGPD)
 
@@ -29,11 +29,27 @@ Scanner local e explicável para descoberta e priorização de dados pessoais em
 
 Versão candidata: [v2.2.0rc1](https://github.com/analistarj/CPF_LGPD/releases/tag/v2.2.0rc1).
 
+### [Cloud Vulnerability Audit](https://github.com/analistarj/cloud-vulnerability-audit)
+
+Ferramenta local e determinística para normalizar achados de segurança da AWS, Azure e Google Cloud e calcular um score próprio de priorização.
+
+- suporte a AWS Security Hub, Microsoft Defender for Cloud e Google Security Command Center;
+- score de risco por achado e score agregado do ambiente, ambos de 0 a 100;
+- confiança da evidência separada do risco;
+- fatores explicáveis e metodologia versionada;
+- pseudonimização de identificadores e omissão de títulos e descrições originais;
+- testes automatizados em Python 3.10 e 3.12, cobertura e build no GitHub Actions;
+- exemplos totalmente sintéticos, sem credenciais e sem conexão com contas cloud.
+
+Versão inicial: `v0.1.0`.
+
 ## English summary
 
 IT Audit and Cyber GRC specialist with more than 25 years of experience in technology and nearly 20 years working with IT audit, risk, internal controls and cybersecurity.
 
 My work connects audit, governance and engineering. I turn control requirements, risks and evidence into reproducible tests, explainable reporting and continuous monitoring, with a strong focus on ITGC, SOX, COBIT, NIST, IAM, cloud security, privacy and AI governance.
+
+My featured projects demonstrate explainable and privacy-aware approaches to LGPD data discovery and multicloud vulnerability prioritization, supported by versioned rules, automated tests and continuous integration.
 
 ## Tecnologias | Technologies
 
