@@ -1,52 +1,48 @@
-# 👋 Hi, I'm Alan, IT Auditor & Cybersecurity Specialist
+# Alan Nogueira
 
-**Expert in Technology Audit, Cybersecurity, and Control Automation**  
-I help organizations strengthen their IT environments through automated audit scripts, vulnerability assessments, and secure DevOps practices.
+**Auditoria de TI, Cyber GRC e Automação | IT Audit, Cyber GRC and Automation**
 
----
+Tenho mais de 25 anos de experiência em tecnologia, com quase 20 anos de atuação em Auditoria de TI, riscos, controles internos e segurança da informação. Transformo requisitos, riscos e evidências em testes reproduzíveis, relatórios explicáveis e monitoramento contínuo.
 
-## 💼 About Me / Sobre Mim
-- 🧩 **IT Auditor & Cybersecurity Professional** with over 20 years in technology governance  
-- 🔍 Experience in **ITGC**, **SOX**, **NIST CSF**, **COBIT**, and **ISO 27001** frameworks  
-- 💡 Specialized in automation of IT audits, log analysis, and vulnerability detection  
-- ☁️ Expertise across **Azure**, **Linux**, **Windows Server**, **AWS**, and **GCP** environments  
-- ⚙️ Knowledge in **Cloud Security Posture**, **DevOps Security**, and **IAM Controls**  
-- 🧠 Currently improving skills in **Powershell**, **GitHub Actions**, and **threat modeling**  
-- 🤝 Open to collaborate on **security automation and compliance monitoring projects**
+Atuo na conexão entre auditoria, cybersecurity, governança e engenharia, com foco em ambientes corporativos complexos, privacidade por desenho e decisões apoiadas por evidências.
 
-🗣️ *Auditor e especialista em segurança da informação*, com ampla experiência em controles de TI, conformidade e automação de auditorias.  
-Atuação em **Governança de TI**, **Gestão de Identidades (IAM)**, **DevSecOps**, e **Hardening de Infraestrutura**.  
-Foco em transformar achados de auditoria em **ações automatizadas de mitigação e monitoramento contínuo**.
+## Áreas de atuação
 
----
+- **Auditoria e controles:** ITGC, SOX, COSO, COBIT 2019 e auditoria contínua.
+- **Cyber GRC:** NIST CSF 2.0, ISO/IEC 27001 e 27002, riscos tecnológicos e terceiros.
+- **Identidades e cloud:** IAM, AWS, Azure, GCP, segregação de funções e gestão de acessos.
+- **Privacidade e IA:** LGPD, descoberta de dados, governança de IA e validação humana.
+- **Automação e analytics:** Python, PowerShell, SQL, GitHub Actions, Power BI e ACL/Diligent.
 
-## 🧰 Core Tools & Technologies / Principais Tecnologias
+## Projeto autoral em destaque
 
-Python · PowerShell · SQL · GitHub Actions · ACL Analytics · Azure CLI · Cloud Security · DevOps · Automation · Log Analysis · IAM · NIST · ISO 27001 · SOC 2
+### [CPF_LGPD](https://github.com/analistarj/CPF_LGPD)
 
----
+Scanner local e explicável para descoberta e priorização de dados pessoais em raízes previamente autorizadas e compartilhamentos corporativos Windows.
 
-### 🚀 Featured Projects / Projetos em Destaque
+- regras determinísticas, explicáveis e versionadas;
+- separação entre confiança da evidência e risco do arquivo;
+- rastreabilidade estrutural sem registrar CPF, nomes ou valores sensíveis;
+- suporte a caminhos locais, UNC e avaliação conservadora de ACL NTFS e SMB;
+- testes automatizados, cobertura, CI e pacote versionado;
+- apoio à revisão humana, sem concluir sozinho licitude ou violação da LGPD.
 
-| Repository | Description / Descrição | Stack |
-|---|---|---|
-| [script-auditor](https://github.com/Analistarj/script-auditor) | Automated audit scripts to test security and compliance controls / Scripts automatizados para testar controles de segurança e conformidade | Python |
-| [CPF_LGPD](https://github.com/Analistarj/CPF_LGPD) | Data privacy audit (LGPD) with sensitive data detection / Auditoria de privacidade com identificação de dados sensíveis | Python |
-| [Banco_de_Dados_audit](https://github.com/Analistarj/Banco_de_Dados_audit) | SQL audit for access validation and anomaly detection / Auditoria SQL para validação de acessos e detecção de anomalias | SQL, Python |
+Versão candidata: [v2.2.0rc1](https://github.com/analistarj/CPF_LGPD/releases/tag/v2.2.0rc1).
 
----
+## English summary
 
-## 📊 GitHub Stats / Estatísticas
+IT Audit and Cyber GRC specialist with more than 25 years of experience in technology and nearly 20 years working with IT audit, risk, internal controls and cybersecurity.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=analistarj&show_icons=true&theme=dark&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=analistarj&layout=compact&langs_count=7&theme=dark)
+My work connects audit, governance and engineering. I turn control requirements, risks and evidence into reproducible tests, explainable reporting and continuous monitoring, with a strong focus on ITGC, SOX, COBIT, NIST, IAM, cloud security, privacy and AI governance.
 
----
+## Tecnologias | Technologies
 
-## 🌐 Connect With Me / Conecte-se Comigo
-[Instagram](https://instagram.com/alancarioca) · [Beacons](https://beacons.ai/analistarj) · Email: analista.carioca@gmail.com  
+`Python` · `PowerShell` · `SQL` · `GitHub Actions` · `Power BI` · `ACL/Diligent` · `AWS` · `Azure` · `GCP`
 
----
+## Contato | Contact
 
-⭐ **"From audit evidence to cybersecurity resilience."**  
-⭐ **"De evidências de auditoria à resiliência em segurança da informação."**
+[LinkedIn](https://www.linkedin.com/in/alan-nogueira-grc-it/) · [GitHub](https://github.com/analistarj)
+
+> De evidências de auditoria à resiliência cibernética.
+>
+> From audit evidence to cyber resilience.
